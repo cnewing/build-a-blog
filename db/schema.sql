@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS build_blog;
+
+CREATE DATABASE build_blog;
